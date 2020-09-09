@@ -1,6 +1,7 @@
 # HappyStoreSln
 
 SportsStore: A Real Application
+
 Author: Adam Freeman (https://www.apress.com/gp/book/9781484254394)
 
 dotnet new globaljson --sdk-version 3.4.101 --output HappyStoreSln/OutdoorProducts
