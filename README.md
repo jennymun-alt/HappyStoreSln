@@ -1,6 +1,6 @@
 # HappyStoreSln
 
-##Sportsstore: A Real Application
+Sportsstore: A Real Application
 
 dotnet new globaljson --sdk-version 3.4.101 --output HappyStoreSln/OutdoorProducts
 dotnet new web --no-https --output HappyStoreSln/OutdoorProducts --framework netcoreapp3.1
