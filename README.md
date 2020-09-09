@@ -1,6 +1,7 @@
 # HappyStoreSln
 
-Sportsstore: A Real Application
+SportsStore: A Real Application
+Author: Adam Freeman (https://www.apress.com/gp/book/9781484254394)
 
 dotnet new globaljson --sdk-version 3.4.101 --output HappyStoreSln/OutdoorProducts
 dotnet new web --no-https --output HappyStoreSln/OutdoorProducts --framework netcoreapp3.1
