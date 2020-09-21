@@ -1,6 +1,6 @@
 # HappyStoreSln
 
-SportsStore: A Real Application
+## SportsStore: A Real Application
 
 Author: Adam Freeman (https://www.apress.com/gp/book/9781484254394)
 
