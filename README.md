@@ -14,6 +14,7 @@ Author: Adam Freeman (https://www.apress.com/gp/book/9781484254394)
 
 Below are the screenshots
 
+Chapter 8: Navigation and Cart
 
 Welcome Screen
 
@@ -38,3 +39,23 @@ Figure 8-11
 Tests
 
 ![Tests](https://github.com/jennymun-alt/HappyStoreSln/blob/master/screenshots/HappyStoreTests.JPG)
+
+
+Chapter 9: Completing the Cart
+
+Figure 9-4
+
+![Figure 9-4](https://github.com/jennymun-alt/HappyStoreSln/blob/master/screenshots/Figure%209-4.JPG)
+
+Figure 9-5
+
+![Figure 9-5](https://github.com/jennymun-alt/HappyStoreSln/blob/master/screenshots/Figure%209-5.JPG)
+
+Figure 9-6
+
+![Figure 9-6](https://github.com/jennymun-alt/HappyStoreSln/blob/master/screenshots/Figure%209-6.JPG)
+
+Tests
+
+![Tests](https://github.com/jennymun-alt/HappyStoreSln/blob/master/screenshots/Test%209.JPG)
+
