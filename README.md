@@ -41,7 +41,7 @@ Tests
 ![Tests](https://github.com/jennymun-alt/HappyStoreSln/blob/master/screenshots/HappyStoreTests.JPG)
 
 
-Chapter 9: Completing the Cart
+## Chapter 9: Completing the Cart
 
 Figure 9-4
 
