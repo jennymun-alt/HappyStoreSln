@@ -14,7 +14,7 @@ Author: Adam Freeman (https://www.apress.com/gp/book/9781484254394)
 
 Below are the screenshots
 
-Chapter 8: Navigation and Cart
+## Chapter 8: Navigation and Cart
 
 Welcome Screen
 
