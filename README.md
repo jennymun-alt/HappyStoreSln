@@ -12,7 +12,6 @@ Author: Adam Freeman (https://www.apress.com/gp/book/9781484254394)
     dotnet sln BobsStoreSln add HappyStoreSln/HappyStore.Tests 
     dotnet add BobsStoreSln/HappyStore.Tests reference HappyStoreSln/HappyStore  
 
-Below are the screenshots
 
 ## Chapter 7: A Real Application
 
