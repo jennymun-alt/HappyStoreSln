@@ -14,7 +14,7 @@ Author: Adam Freeman (https://www.apress.com/gp/book/9781484254394)
 
 Below are the screenshots
 
-## Chapter 8: Navigation and Cart
+## Chapter 7: A Real Application
 
 Welcome Screen
 
@@ -23,6 +23,8 @@ Welcome Screen
 Figure 7-9
 
 ![Figure 7-9](https://github.com/jennymun-alt/HappyStoreSln/blob/master/screenshots/Figure%207-9.JPG)
+
+## Chapter 8: Navigation and Cart
 
 Figure 8-5
 
@@ -59,3 +61,6 @@ Tests
 
 ![Tests](https://github.com/jennymun-alt/HappyStoreSln/blob/master/screenshots/Test%209.JPG)
 
+## Chapter 10: Administration
+
+![Final Page](https://github.com/jennymun-alt/HappyStoreSln/blob/master/screenshots/Chapter%2010.JPG)
